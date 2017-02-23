@@ -1,0 +1,11 @@
+{
+    "title": "Schema lesMeilleursagents",
+    "type": "object",
+    "properties": {
+        "departement": "hauts-de-seine-92",
+        "prixEstimeAuM": 5582,
+        "prixEstimeTotal": null,
+        "typeDeBien": "other",
+        "resultat": "Can not evaluate this deal, it is neither a house nor an appartement"
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"title": "Schema lesMeilleursagents",
+	"type": "object",
+	"properties": {
+		"departement": "string",
+
+		"prixEstimeAuM": "integer",
+
+		"prixEstimeTotal": "integer",
+
+		"typeDeBien": "string",
+
+		"resultat": "string"
+    }
+}

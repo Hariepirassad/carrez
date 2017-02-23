@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Carrez</title>
+  </head>
+
+  <body>
+    <form id ="url-form" method="post" action="/home">
+      <label for="url">Enter the leboncoin URL to have a feedback : </label>
+      <input type="text" name="url" value="<%= address.url %>"/>
+      <input type="submit" value="submit"/>
+    </form>
+
+    <p><strong>Result: </strong><%= data %></p>
+  </body>
+</html>

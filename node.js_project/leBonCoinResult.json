@@ -1,0 +1,10 @@
+{
+    "title": "Schema leBoncoin",
+    "type": "object",
+    "properties": {
+        "prix": 22000,
+        "departement": "hauts-de-seine-92",
+        "surface": 12,
+        "typeDeBien": "other"
+    }
+}

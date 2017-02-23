@@ -1,0 +1,13 @@
+{
+	"title": "Schema leBoncoin",
+	"type": "object",
+	"properties": {
+		"prix": "interger",
+
+		"departement": "string",
+
+		"surface": "integer",
+
+		"typeDeBien": "string"
+		}
+}

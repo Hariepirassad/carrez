@@ -1,0 +1,13 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrapling web",
+  "main": "app.js",
+  "author": "Harry",
+  "dependencies": {
+    "cheerio": "latest",
+    "ejs": "^2.5.6",
+    "express": "latest",
+    "request": "latest"
+  }
+}
